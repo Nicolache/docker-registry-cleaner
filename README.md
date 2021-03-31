@@ -14,4 +14,6 @@ deltags=`ls -1tr | head -n -3`
 ```
  * think twice  
  * launch  
+```
 ./registry-clean.sh
+```
